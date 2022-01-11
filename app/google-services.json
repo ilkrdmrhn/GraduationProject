@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517791757487",
+    "project_id": "birdboxuygulamasi",
+    "storage_bucket": "birdboxuygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517791757487:android:e62e7c0c538d9d83d4105a",
+        "android_client_info": {
+          "package_name": "com.example.birdboxuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517791757487-rc3020krkuok1e2742n1boutuhqqd43i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdIoYNZXGDsYUR2SwcpRYIOBpH2h7z_Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517791757487-rc3020krkuok1e2742n1boutuhqqd43i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
